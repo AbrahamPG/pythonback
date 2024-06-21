@@ -1,0 +1,6 @@
+#ignora el .idea
+.idea
+__pycache__
+#ignora la base de datos sqlite 3 que viene por defecto al crear
+#un proyecto en Django
+*.sqlite3
